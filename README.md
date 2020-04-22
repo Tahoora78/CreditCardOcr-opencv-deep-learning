@@ -5,4 +5,4 @@ In this project you can get the credit card number of a credit card that is in t
 I used the featureDetection of the python opencv
 
 
-2.Deep learnig:
+2.Deep learning:
