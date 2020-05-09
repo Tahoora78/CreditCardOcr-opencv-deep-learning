@@ -1,5 +1,5 @@
 # CreditCardOcr-opencv-deep-learning
-<video src="demo//demo.mp4" width="320" height="200" controls preload></video>
+<video src="https://youtu.be/6JePkiYxRWQ" width="320" height="200" controls preload></video>
 
 
 
