@@ -13,3 +13,13 @@ I used the featureDetection of the python opencv
 2.Deep learning:
 
 # Prerequisites
+<br>
+python 3+<>
+opencv 3.4+<br>
+Numpy<br>
+Tensorflow 2.0<br>
+Pillow
+
+# Author
+<br>
+Tahoura Majlesi
