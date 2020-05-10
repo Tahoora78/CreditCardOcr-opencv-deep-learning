@@ -18,8 +18,9 @@ python 3+<>
 opencv 3.4+<br>
 Numpy<br>
 Tensorflow 2.0<br>
-Pillow
+Pillow<br>
 Pytesseract
+<br>
 # Author
 Tahoura Majlesi
 # License
