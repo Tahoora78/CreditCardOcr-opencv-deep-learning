@@ -14,13 +14,22 @@ I used the featureDetection of the python opencv
 
 # Prerequisites
 <br>
-python 3+<>
-opencv 3.4+<br>
-Numpy<br>
-Tensorflow 2.0<br>
-Pillow<br>
+python 3+
+<br>
+opencv 3.4+
+<br>
+Numpy
+<br>
+Tensorflow 2.0
+<br>
+Pillow
+<br>
 Pytesseract
+
+
 # Author
 Tahoura Majlesi
+
+
 # License
 Apache_2.0
