@@ -21,5 +21,6 @@ Tensorflow 2.0<br>
 Pillow
 
 # Author
-<br>
-Tahoura Majlesi
+
+# License
+apache
