@@ -23,4 +23,4 @@ Pillow
 # Author
 Tahoura Majlesi
 # License
-apache
+Apache_2.0
