@@ -20,7 +20,6 @@ Numpy<br>
 Tensorflow 2.0<br>
 Pillow<br>
 Pytesseract
-<br>
 # Author
 Tahoura Majlesi
 # License
