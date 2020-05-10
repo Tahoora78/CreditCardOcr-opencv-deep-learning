@@ -19,7 +19,7 @@ opencv 3.4+<br>
 Numpy<br>
 Tensorflow 2.0<br>
 Pillow
-
+Pytesseract
 # Author
 Tahoura Majlesi
 # License
