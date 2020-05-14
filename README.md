@@ -11,6 +11,7 @@ I used the featureDetection of the python opencv
 
 
 2.Deep learning:
+loading(soon it will be added)
 
 # Prerequisites
 <br>
