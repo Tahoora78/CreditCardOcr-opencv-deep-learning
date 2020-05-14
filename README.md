@@ -10,6 +10,9 @@ In this project you can get the credit card number of a credit card that is in t
 In this way, first this program finds the location of the card and after that it finds the card number location. By using tesseract this program can find the credit card number and then it displays it.
 To improve the accuracy of this, I trained the tesseract with only numbers(neng is the name of the font that i created it). 
 you could create your own font by using jtessBox editor and Serak tesseract Trainer.
+This is the result:
+![Rec-00430000](https://user-images.githubusercontent.com/44377951/81905129-8b8df680-95d9-11ea-9f8c-93b43bc5fd62.gif)
+
 
 
 2.Deep learning:
