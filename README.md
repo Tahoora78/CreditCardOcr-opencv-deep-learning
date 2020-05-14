@@ -24,7 +24,7 @@ Tensorflow 2.0
 <br>
 Pillow
 <br>
-Pytesseract
+Pytesseract 5+
 
 
 # Author
