@@ -7,7 +7,9 @@
 In this project you can get the credit card number of a credit card that is in the image. I have do this in 2 ways. The first one is with opencv and the second way is with deep learning. 
 <br>
 1.opencv:
-I used the featureDetection of the python opencv
+In this way, first this program finds the location of the card and after that it finds the card number location. By using tesseract this program can find the credit card number and then it displays it.
+To improve the accuracy of this, I trained the tesseract with only numbers(neng is the name of the font that i created it). 
+you could create your own font by using jtessBox editor and Serak tesseract Trainer.
 
 
 2.Deep learning:
