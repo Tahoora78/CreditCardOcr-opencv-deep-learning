@@ -17,7 +17,7 @@ This is the result:
 
 
 
-2.Deep learning:
+# 2.Deep learning:
 loading(soon it will be added)
 
 # Prerequisites
